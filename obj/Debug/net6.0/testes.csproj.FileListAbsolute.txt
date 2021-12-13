@@ -1,0 +1,15 @@
+D:\Biblioteca\GarfCodes\projetos\testes\bin\Debug\net6.0\testes.exe
+D:\Biblioteca\GarfCodes\projetos\testes\bin\Debug\net6.0\testes.deps.json
+D:\Biblioteca\GarfCodes\projetos\testes\bin\Debug\net6.0\testes.runtimeconfig.json
+D:\Biblioteca\GarfCodes\projetos\testes\bin\Debug\net6.0\testes.dll
+D:\Biblioteca\GarfCodes\projetos\testes\bin\Debug\net6.0\ref\testes.dll
+D:\Biblioteca\GarfCodes\projetos\testes\bin\Debug\net6.0\testes.pdb
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.csproj.AssemblyReference.cache
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.AssemblyInfoInputs.cache
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.AssemblyInfo.cs
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.csproj.CoreCompileInputs.cache
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.dll
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\ref\testes.dll
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.pdb
+D:\Biblioteca\GarfCodes\projetos\testes\obj\Debug\net6.0\testes.genruntimeconfig.cache
